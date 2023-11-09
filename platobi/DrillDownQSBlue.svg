@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="99.003" height="20" viewBox="0 0 99.003 20">
+  <g id="DrillDownQSBlue" transform="translate(-81 -97)">
+    <text id="Drill_Down" data-name="Drill Down" transform="translate(103.003 113)" fill="#177199" font-size="16" font-family="AmazonEmber-Regular, Amazon Ember"><tspan x="0" y="0">Drill Down</tspan></text>
+    <path id="Icon_awesome-angle-double-down" data-name="Icon awesome-angle-double-down" d="M4.469,8.009.219,3.759a.747.747,0,0,1,0-1.059l.706-.706a.747.747,0,0,1,1.059,0L5,5.006,8.009,1.994a.747.747,0,0,1,1.059,0l.713.7a.747.747,0,0,1,0,1.059l-4.25,4.25a.748.748,0,0,1-1.062,0Zm1.063,6,4.25-4.25a.747.747,0,0,0,0-1.059l-.706-.706a.747.747,0,0,0-1.059,0L5,11,1.987,7.991a.747.747,0,0,0-1.059,0L.219,8.7a.747.747,0,0,0,0,1.059l4.25,4.25A.748.748,0,0,0,5.531,14.009Z" transform="translate(81.002 98.999)" fill="#177199"/>
+  </g>
+</svg>
