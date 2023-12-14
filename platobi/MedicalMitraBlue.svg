@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="38" height="38" viewBox="0 0 38 38">
+  <g id="MedicalMitraBlue" transform="translate(-51 -233)">
+    <g id="TotalMoneyMitraBlue" transform="translate(-33 32)">
+      <circle id="Ellipse_1" data-name="Ellipse 1" cx="19" cy="19" r="19" transform="translate(84 201)" fill="#f2f7fd"/>
+    </g>
+    <path id="Icon_awesome-file-medical" data-name="Icon awesome-file-medical" d="M12.221,3.4,9.048.227A.777.777,0,0,0,8.5,0H8.3V4.149h4.149v-.2A.776.776,0,0,0,12.221,3.4Zm-4.96,1V0H.778A.776.776,0,0,0,0,.778V15.82a.776.776,0,0,0,.778.778H11.67a.776.776,0,0,0,.778-.778V5.187H8.04A.78.78,0,0,1,7.262,4.409ZM9.336,9.6v1.556a.26.26,0,0,1-.259.259H7.262v1.815A.26.26,0,0,1,7,13.486H5.446a.26.26,0,0,1-.259-.259V11.411H3.371a.26.26,0,0,1-.259-.259V9.6a.26.26,0,0,1,.259-.259H5.187V7.521a.26.26,0,0,1,.259-.259H7a.26.26,0,0,1,.259.259V9.336H9.077A.26.26,0,0,1,9.336,9.6Z" transform="translate(63.776 243.701)" fill="#0067d2"/>
+  </g>
+</svg>
